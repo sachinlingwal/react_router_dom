@@ -1,0 +1,16 @@
+a {
+  text-decoration: none;
+  margin: 1em 1rem;
+  font-size: 2rem;
+  color: white;
+}
+nav {
+  background-color: rgb(97, 96, 96);
+  padding: 1rem;
+}
+
+/* nav a.active {
+  color: white;
+  padding: 2px 1rem;
+  border-bottom: 1px solid white;
+} */
